@@ -26,8 +26,7 @@ public class Exercicio03 {
 
         System.out.print("Digite o valor da Conta de luz: ");
         Double valorDaContaDeLuz = scanner.nextDouble();
-        gasto
-    Total+=valorDaContaDeLuz;
+        gastoTotal+=valorDaContaDeLuz;
         System.out.print("Digite o valor da Conta de água: ");
         Double valoDaContaDeAgua = scanner.nextDouble();
         gastoTotal+=valoDaContaDeAgua;
