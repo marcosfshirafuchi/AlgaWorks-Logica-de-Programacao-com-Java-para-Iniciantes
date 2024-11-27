@@ -1,0 +1,5 @@
+1 - Ir na academia.
+2 - Estudar curso de Java.
+3 - Trabalhar.
+4 - Ler um livro.
+5 - Fazer o curso de inglês.
